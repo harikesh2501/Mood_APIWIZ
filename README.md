@@ -98,3 +98,7 @@ If you clear your browser's cache or use private browsing mode, your localStorag
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.# Mood_APIWIZ
+
+
+![WhatsApp Image 2025-04-22 at 19 33 30_89e37bd0](https://github.com/user-attachments/assets/0c786e56-d942-4348-82bd-cf16583ff321)
+
